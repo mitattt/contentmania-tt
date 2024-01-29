@@ -29,7 +29,7 @@ To install the project and its dependencies, follow these steps:
 To start the React Native development server and run the application, use the following commands:
 
 - For Android:
-  You need to open 2 termimals.
+  You need to open 2 terminals.
   In the first paste this command
   ```bash
   npm start
